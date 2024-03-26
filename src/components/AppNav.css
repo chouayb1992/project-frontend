@@ -1,0 +1,78 @@
+.page {
+    display: flex;
+}
+
+header {
+    margin-top: 25px;
+    position: fixed;
+    width: 25%;
+    min-height: 100%;
+    /* background-color: gray; */
+  } 
+
+.nav-logo {
+    color: black;
+    letter-spacing: 5px;
+    width: 500px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.nav-link  {
+    /* height: 100%; */
+    display: block;
+    color: black;
+    width: 250px;
+    /* font-weight: bold; */
+    font-size: 25px;
+    margin-left: 50px;
+  }
+
+.add-btn  {
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin-left: 70px;
+    margin-top: 10px;
+    background-color: #2898ed;
+    width: 180px;
+    border-radius: 25px;
+    border: none;
+    font-size: 20px;
+}
+
+.sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: 60px; 
+}
+
+.content {
+  margin-top: 25px;
+  position: fixed;
+  width: 25%;
+  height: 300px;
+  border-radius: 25px;
+} 
+
+.profile-pic {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+}
+
+.logout {
+  color: white;
+  background-color: black;
+  border-color: black;
+  border-radius: 50px;
+}
+
+.username {
+  font-size: 17px;
+  font-weight: bold;
+}

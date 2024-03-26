@@ -1,0 +1,30 @@
+.user-info {
+    color: black;
+    margin-left: 200px;
+    margin: 2rem auto;
+    width: 30rem;
+    /* background-color: aqua; */
+}
+
+.user-info img {
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.followings {
+    margin-right: 15px;
+}
+
+.bio {
+    font-size: 13px;
+    color: #4a4842;
+    font-family: 'Courier New', Courier, monospace;
+}

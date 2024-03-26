@@ -1,0 +1,28 @@
+.leaderboard {
+    display: flex;
+    width: 90%;
+    margin: 0 20rem;
+}
+
+.b1 {
+    color: red;
+    width:50%;
+    background-color: green;
+}
+
+.b2 {
+    color: green;
+    width: 50%;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+

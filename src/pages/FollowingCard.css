@@ -1,0 +1,31 @@
+.following-pic {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.follower {
+    display: flex;
+}
+
+p {
+    font-size: 17px;
+    font-weight: 900;
+    /* color: #2898ed; */
+    padding: 15px;
+    
+}
+
+button-unfollow {
+    background-color: #2898ed;
+    border: none;
+    padding: 0px 10px;
+    font-size: 15px;
+    color: white;
+   
+}
+
+
+
+
+

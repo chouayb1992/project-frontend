@@ -1,0 +1,18 @@
+.search-wrapper {
+    /* margin-top: 20px; */
+}
+
+.search-group {
+    position: relative;
+}
+
+.form-control input {
+    width: 300px;
+    font-size: 18px;
+    outline: none;
+}
+
+.search-btn {
+    position: absolute;
+    right: 0;
+}
